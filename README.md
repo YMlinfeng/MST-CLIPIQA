@@ -81,9 +81,11 @@ The model is evaluated using:
 - **SRCC** (Spearman Rank Correlation Coefficient)
 - **PLCC** (Pearson Linear Correlation Coefficient)
 
+SRCC on AGIQA-1K:
+- Variant A (MST-CLIPIQA): ~0.8990
+- Variant B (MST-CLIPIQA*): ~0.9091
+
 ## To do list
 
 
-Expected SRCC on AGIQA-1K:
-- Variant A (MST-CLIPIQA): ~0.8990
-- Variant B (MST-CLIPIQA*): ~0.9091
+
