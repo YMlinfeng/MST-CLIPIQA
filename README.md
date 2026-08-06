@@ -14,7 +14,7 @@ MST-CLIPIQA is a multi-scale two-stream Vision-Language Model (VLM) framework th
 
 ## Requirements
 
-- Python >= 3.8
+- Python >= 3.6
 - GPU with at least 12GB VRAM (to hold both ViT-B/32 and ViT-B/16 in memory)
 - 16GB+ System RAM
 
